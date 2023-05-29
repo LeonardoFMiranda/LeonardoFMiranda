@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Olá! Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas, apaixonado por programação frontend e determinado a aprimorar minhas habilidades nessa área emocionante e dinâmica.<br>Tenho conhecimento em HTML, CSS e um pouco de Python.<br>Estou atualmente aprendendo Javascript. <br>Após Javascript focarei em aprender React.<br>A procura de estágio em frontend, quero todo tipo de experiência!.
+Olá! Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas, apaixonado por programação frontend e determinado a aprimorar minhas habilidades nessa área emocionante e dinâmica.<br>Tenho conhecimento em HTML, CSS e um pouco de Python.<br>Estou atualmente aprendendo Javascript. <br>Após Javascript focarei em aprender React.<br>A procura de estágio em frontend quero todo tipo de experiência!
 
 
 ## 🌐 Socials:
