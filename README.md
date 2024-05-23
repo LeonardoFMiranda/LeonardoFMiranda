@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Olá! Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas, apaixonado por programação fullstack e determinado a aprimorar minhas habilidades nessa área emocionante e dinâmica.<br>Tenho conhecimento em HTML, CSS, Javascript, React, Angular e Java.<br>A procura de estágio, quero todo tipo de experiência!
+Olá! Sou um estudante dedicado de Análise e Desenvolvimento de Sistemas, apaixonado por programação fullstack e determinado a aprimorar minhas habilidades nessa área emocionante e dinâmica.<br>Tenho conhecimento em HTML, CSS, Javascript, React, Angular e Java.<br>
 
 
 ## 🌐 Socials:
